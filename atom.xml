@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Writing to the Better End]]></title>
+  <link href="http://jameskeim.github.io/atom.xml" rel="self"/>
+  <link href="http://jameskeim.github.io/"/>
+  <updated>2013-04-24T16:42:41-05:00</updated>
+  <id>http://jameskeim.github.io/</id>
+  <author>
+    <name><![CDATA[James Keim]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
